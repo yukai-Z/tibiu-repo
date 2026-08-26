@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: TIBIU",
     "pkg": "eu.kanade.tachiyomi.extension.zh.tibiu",
-    "apk": "tachiyomi-zh.tibiu-v1.4.2.apk",
+    "apk": "tachiyomi-zh.tibiu-v1.4.4.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {
