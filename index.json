@@ -2,17 +2,17 @@
   {
     "name": "Tachiyomi: TIBIU",
     "pkg": "eu.kanade.tachiyomi.extension.zh.tibiu",
-    "apk": "tachiyomi-zh.tibiu-v1.4.6.apk",
+    "apk": "tachiyomi-zh.tibiu-v1.4.7.apk",
     "lang": "zh",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "sources": [
       {
         "id": "6028517731014373149",
         "lang": "zh",
-        "name": "TIBIU漫画",
-        "baseUrl": "http://comic.tibiu.net"
+        "name": "TIBIU\u6f2b\u753b",
+        "baseUrl": "https://www.tibiu.net"
       }
     ]
   }
